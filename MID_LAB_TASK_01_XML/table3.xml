@@ -1,20 +1,20 @@
-<students>
-	<student id="1">
+<employees>
+	<employee id="1">
 		<name> Jodn Doe </name>
 		<address> H# 38, R#3, Banani, Dhaka </address>
 		<department> Sales </department>
 		<salary> $20000 </salary>
-	</student>
-	<student id="2">
+	</employee>
+	<employee id="2">
 		<name> Jodn Doe </name>
 		<address> Flat# A/1, H# 20, R#18, Mirpur, Dhaka </address>
 		<department> Accounts </department>
 		<salary> $12000 </salary>
-	</student>
-	<student id="3">
+	</employee>
+	<employee id="3">
 		<name> Ala Voski </name>
 		<address> H# 38, R#3, Motijheel </address>
 		<department> Human Resource </department>
 		<salary> $30000 </salary>
-	</student>
-</students>
+	</employee>
+</employees>
