@@ -1,9 +1,9 @@
 <admission>
-	<student id="23">
+	<student sl.no="23">
 		<name> John Carter </name>
 		<admissiondate> 2015-12-25 </admissiondate>
 	</student>
-	<student id="29">
+	<student sl.no="29">
 		<name> Bob Marshal </name>
 		<admissiondate> 1999-01-13 </admissiondate>
 	</student>
